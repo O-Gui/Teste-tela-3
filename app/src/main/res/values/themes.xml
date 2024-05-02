@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyPetShopRedefinirSenhaTela3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#798F8F</item>
+        <item name="colorPrimaryDark">#426B85</item>
+        <item name="colorAccent">#add8e6</item>
+        <!-- Outros atributos de estilo, se houver -->
+    </style>
+</resources>
